@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="time_zero">0:00</string>
+    <string name="song_info"> Currently Playing</string>
+    <string name="sort">Sort</string>
+    <string name="source">Source</string>
+</resources>
